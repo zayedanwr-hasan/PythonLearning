@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python Learning (PaythonLearning)
 
 Quick, concise README for the project.
@@ -41,3 +42,6 @@ Next steps (suggested)
 - Add tests and split widgets into reusable components.
 
 If you want a longer README or a localized version, tell me and I will expand it.
+=======
+# PythonLearning
+>>>>>>> 75f84e98073ac4a1109cd297a252b64c9bdab6e1
